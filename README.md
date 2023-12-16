@@ -14,4 +14,4 @@
 
 
 ## About
-This project is licensed under the [GNU License](Maps%20of%20India/LICENSE) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://twitter.com/planetabhi), Method Black Studio.
+This project is licensed under the [GNU License](/LICENSE) · Brought to you by **Abhimanyu Rana** - [@planetabhi](https://twitter.com/planetabhi), Method Black Studio.
